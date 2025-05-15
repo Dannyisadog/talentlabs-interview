@@ -1,0 +1,386 @@
+[
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440000",
+        "title": "Senior Frontend Developer",
+        "description": "Looking for an experienced frontend developer to build responsive web applications using React and TypeScript.",
+        "location": "Taipei, Taiwan",
+        "salaryRange": {
+            "min": 100000,
+            "max": 150000,
+            "currency": "TWD"
+        },
+        "companyName": "TechInnovate",
+        "postingDate": "2023-08-15T00:00:00.000Z",
+        "expirationDate": "2023-10-15T00:00:00.000Z",
+        "requiredSkills": [
+            "React",
+            "TypeScript",
+            "CSS",
+            "HTML",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440001",
+        "title": "Full Stack Engineer",
+        "description": "Join our team to develop full-stack web applications using modern technologies. Experience with Node.js and MongoDB required.",
+        "location": "Taipei, Taiwan",
+        "salaryRange": {
+            "min": 120000,
+            "max": 160000,
+            "currency": "TWD"
+        },
+        "companyName": "Digital Solutions",
+        "postingDate": "2023-07-20T00:00:00.000Z",
+        "expirationDate": "2023-09-20T00:00:00.000Z",
+        "requiredSkills": [
+            "Node.js",
+            "React",
+            "MongoDB",
+            "JavaScript",
+            "Express"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440002",
+        "title": "UI/UX Designer",
+        "description": "Create beautiful and user-friendly interfaces for web and mobile applications. Experience with Figma and Adobe Creative Suite required.",
+        "location": "Kaohsiung, Taiwan",
+        "salaryRange": {
+            "min": 90000,
+            "max": 130000,
+            "currency": "TWD"
+        },
+        "companyName": "CreativeWorks",
+        "postingDate": "2023-08-05T00:00:00.000Z",
+        "expirationDate": "2023-10-05T00:00:00.000Z",
+        "requiredSkills": [
+            "Figma",
+            "Adobe XD",
+            "UI Design",
+            "UX Research",
+            "Prototyping"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440003",
+        "title": "Backend Developer",
+        "description": "Design and implement scalable backend services and APIs.",
+        "location": "Taichung, Taiwan",
+        "salaryRange": "90,000 - 130,000 TWD per month",
+        "companyName": "ServerSolutions",
+        "postingDate": "2023-08-05T00:00:00.000Z",
+        "expirationDate": "2023-10-05T00:00:00.000Z",
+        "requiredSkills": [
+            "Java",
+            "Spring Boot",
+            "SQL",
+            "REST APIs",
+            "Microservices"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440004",
+        "title": "DevOps Engineer",
+        "description": "Manage our cloud infrastructure and CI/CD pipelines.",
+        "location": "Taipei, Taiwan",
+        "salaryRange": {
+            "min": 110000,
+            "max": 160000,
+            "currency": "TWD"
+        },
+        "companyName": "CloudTech",
+        "postingDate": "2023-08-12T00:00:00.000Z",
+        "expirationDate": "2023-10-12T00:00:00.000Z",
+        "requiredSkills": [
+            "Kubernetes",
+            "Docker",
+            "AWS",
+            "Terraform",
+            "Jenkins"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440005",
+        "title": "Data Scientist",
+        "description": "Extract insights from large datasets and build predictive models.",
+        "location": "Hsinchu, Taiwan",
+        "salaryRange": "100,000 - 150,000 TWD per month",
+        "companyName": "DataInsights",
+        "postingDate": "2023-08-18T00:00:00.000Z",
+        "expirationDate": "2023-11-18T00:00:00.000Z",
+        "requiredSkills": [
+            "Python",
+            "Machine Learning",
+            "SQL",
+            "Data Visualization",
+            "Statistics"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440006",
+        "title": "Mobile App Developer",
+        "description": "Build native applications for iOS and Android platforms.",
+        "location": "Tainan, Taiwan",
+        "salaryRange": {
+            "min": 85000,
+            "max": 125000,
+            "currency": "TWD"
+        },
+        "companyName": "MobileSoft",
+        "postingDate": "2023-08-25T00:00:00.000Z",
+        "expirationDate": "2023-10-25T00:00:00.000Z",
+        "requiredSkills": [
+            "Swift",
+            "Kotlin",
+            "React Native",
+            "Mobile UI Design",
+            "RESTful APIs"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440007",
+        "title": "QA Engineer",
+        "description": "Ensure software quality through manual and automated testing.",
+        "location": "Taipei, Taiwan",
+        "salaryRange": "75,000 - 110,000 TWD per month",
+        "companyName": "QualityAssure",
+        "postingDate": "2023-08-22T00:00:00.000Z",
+        "expirationDate": "2023-10-22T00:00:00.000Z",
+        "requiredSkills": [
+            "Selenium",
+            "JUnit",
+            "TestNG",
+            "JIRA",
+            "Test Planning"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440008",
+        "title": "Product Manager",
+        "description": "Lead product development from conception to launch.",
+        "location": "Remote",
+        "salaryRange": {
+            "min": 120000,
+            "max": 180000,
+            "currency": "TWD"
+        },
+        "companyName": "ProductInnovate",
+        "postingDate": "2023-08-14T00:00:00.000Z",
+        "expirationDate": "2023-11-14T00:00:00.000Z",
+        "requiredSkills": [
+            "Product Development",
+            "User Stories",
+            "Market Research",
+            "Agile",
+            "Roadmapping"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440009",
+        "title": "Data Engineer",
+        "description": "Design and implement data pipelines and warehousing solutions.",
+        "location": "Taichung, Taiwan",
+        "salaryRange": "95,000 - 140,000 TWD per month",
+        "companyName": "DataWorks",
+        "postingDate": "2023-08-08T00:00:00.000Z",
+        "expirationDate": "2023-10-08T00:00:00.000Z",
+        "requiredSkills": [
+            "Apache Spark",
+            "Hadoop",
+            "SQL",
+            "Python",
+            "ETL"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440010",
+        "title": "Cloud Solutions Architect",
+        "description": "Design and implement cloud-based solutions for enterprise clients.",
+        "location": "Taipei, Taiwan",
+        "salaryRange": {
+            "min": 130000,
+            "max": 190000,
+            "currency": "TWD"
+        },
+        "companyName": "CloudArch",
+        "postingDate": "2023-08-17T00:00:00.000Z",
+        "expirationDate": "2023-11-17T00:00:00.000Z",
+        "requiredSkills": [
+            "AWS",
+            "Azure",
+            "GCP",
+            "Cloud Migration",
+            "Solution Design"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440011",
+        "title": "Security Engineer",
+        "description": "Protect our systems and data from security threats.",
+        "location": "Hsinchu, Taiwan",
+        "salaryRange": "100,000 - 150,000 TWD per month",
+        "companyName": "SecureTech",
+        "postingDate": "2023-08-30T00:00:00.000Z",
+        "expirationDate": "2023-10-30T00:00:00.000Z",
+        "requiredSkills": [
+            "Network Security",
+            "Penetration Testing",
+            "Security Audits",
+            "SIEM",
+            "Encryption"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440012",
+        "title": "Machine Learning Engineer",
+        "description": "Develop and deploy machine learning models to production.",
+        "location": "Taipei, Taiwan",
+        "salaryRange": {
+            "min": 110000,
+            "max": 170000,
+            "currency": "TWD"
+        },
+        "companyName": "AI Solutions",
+        "postingDate": "2023-08-19T00:00:00.000Z",
+        "expirationDate": "2023-11-19T00:00:00.000Z",
+        "requiredSkills": [
+            "TensorFlow",
+            "PyTorch",
+            "Python",
+            "MLOps",
+            "Computer Vision"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440013",
+        "title": "Technical Writer",
+        "description": "Create clear and comprehensive documentation for our products and APIs.",
+        "location": "Remote",
+        "salaryRange": "70,000 - 100,000 TWD per month",
+        "companyName": "DocuTech",
+        "postingDate": "2023-08-23T00:00:00.000Z",
+        "expirationDate": "2023-10-23T00:00:00.000Z",
+        "requiredSkills": [
+            "Technical Writing",
+            "API Documentation",
+            "Markdown",
+            "Information Architecture",
+            "English Proficiency"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440014",
+        "title": "Frontend Team Lead",
+        "description": "Lead our frontend development team and drive technical decisions.",
+        "location": "Taipei, Taiwan",
+        "salaryRange": {
+            "min": 140000,
+            "max": 200000,
+            "currency": "TWD"
+        },
+        "companyName": "Web Ventures",
+        "postingDate": "2023-08-16T00:00:00.000Z",
+        "expirationDate": "2023-11-16T00:00:00.000Z",
+        "requiredSkills": [
+            "React",
+            "Team Leadership",
+            "Architecture Design",
+            "Code Reviews",
+            "Performance Optimization"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440015",
+        "title": "Blockchain Developer",
+        "description": "Develop decentralized applications and smart contracts.",
+        "location": "Taipei, Taiwan",
+        "salaryRange": "110,000 - 170,000 TWD per month",
+        "companyName": "BlockTech",
+        "postingDate": "2023-08-21T00:00:00.000Z",
+        "expirationDate": "2023-10-21T00:00:00.000Z",
+        "requiredSkills": [
+            "Solidity",
+            "Ethereum",
+            "Web3.js",
+            "Smart Contracts",
+            "Blockchain Protocols"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440016",
+        "title": "AR/VR Developer",
+        "description": "Create immersive experiences using augmented and virtual reality technologies.",
+        "location": "Kaohsiung, Taiwan",
+        "salaryRange": {
+            "min": 90000,
+            "max": 140000,
+            "currency": "TWD"
+        },
+        "companyName": "ImmersiveTech",
+        "postingDate": "2023-08-27T00:00:00.000Z",
+        "expirationDate": "2023-11-27T00:00:00.000Z",
+        "requiredSkills": [
+            "Unity3D",
+            "ARKit",
+            "ARCore",
+            "3D Modeling",
+            "C#"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440017",
+        "title": "Database Administrator",
+        "description": "Manage and optimize our database systems.",
+        "location": "Taichung, Taiwan",
+        "salaryRange": "85,000 - 130,000 TWD per month",
+        "companyName": "DataSystems",
+        "postingDate": "2023-08-11T00:00:00.000Z",
+        "expirationDate": "2023-10-11T00:00:00.000Z",
+        "requiredSkills": [
+            "PostgreSQL",
+            "MySQL",
+            "Database Optimization",
+            "Backup and Recovery",
+            "SQL"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440018",
+        "title": "IT Project Manager",
+        "description": "Manage software development projects from initiation to completion.",
+        "location": "Taipei, Taiwan",
+        "salaryRange": {
+            "min": 120000,
+            "max": 180000,
+            "currency": "TWD"
+        },
+        "companyName": "Project Solutions",
+        "postingDate": "2023-08-09T00:00:00.000Z",
+        "expirationDate": "2023-11-09T00:00:00.000Z",
+        "requiredSkills": [
+            "Project Management",
+            "Agile",
+            "JIRA",
+            "Risk Management",
+            "Team Coordination"
+        ]
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440019",
+        "title": "Growth Hacker",
+        "description": "Drive user acquisition and engagement through data-driven strategies.",
+        "location": "Remote",
+        "salaryRange": "90,000 - 140,000 TWD per month",
+        "companyName": "GrowthLab",
+        "postingDate": "2023-08-24T00:00:00.000Z",
+        "expirationDate": "2023-10-24T00:00:00.000Z",
+        "requiredSkills": [
+            "Digital Marketing",
+            "Data Analysis",
+            "A/B Testing",
+            "User Acquisition",
+            "Retention Strategies"
+        ]
+    }
+]
