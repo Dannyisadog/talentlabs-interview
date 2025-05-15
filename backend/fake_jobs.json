@@ -1,0 +1,574 @@
+{
+    "jobs": [
+        {
+            "title": "Senior Software Engineer",
+            "description": "We are looking for an experienced software engineer to join our team. You will be responsible for designing and implementing scalable solutions.",
+            "location": "San Francisco, CA",
+            "salaryRange": {
+                "min": 120000,
+                "max": 180000
+            },
+            "companyName": "TechCorp Inc",
+            "postingDate": "2024-03-15",
+            "expirationDate": "2024-04-15",
+            "requiredSkills": [
+                "Python",
+                "Django",
+                "React",
+                "AWS",
+                "Docker"
+            ]
+        },
+        {
+            "title": "Full Stack Developer",
+            "description": "Join our dynamic team as a Full Stack Developer. You'll work on both frontend and backend development.",
+            "location": "New York, NY",
+            "salaryRange": {
+                "min": 100000,
+                "max": 150000
+            },
+            "companyName": "Digital Solutions",
+            "postingDate": "2024-03-14",
+            "expirationDate": "2024-04-14",
+            "requiredSkills": [
+                "JavaScript",
+                "Node.js",
+                "React",
+                "MongoDB",
+                "Express"
+            ]
+        },
+        {
+            "title": "DevOps Engineer",
+            "description": "Looking for a DevOps Engineer to help us scale our infrastructure and improve our deployment processes.",
+            "location": "Remote",
+            "salaryRange": {
+                "min": 110000,
+                "max": 160000
+            },
+            "companyName": "CloudTech",
+            "postingDate": "2024-03-13",
+            "expirationDate": "2024-04-13",
+            "requiredSkills": [
+                "Kubernetes",
+                "Docker",
+                "AWS",
+                "Terraform",
+                "CI/CD"
+            ]
+        },
+        {
+            "title": "Data Scientist",
+            "description": "Join our data team to help build and maintain our machine learning models and data pipelines.",
+            "location": "Boston, MA",
+            "salaryRange": {
+                "min": 115000,
+                "max": 170000
+            },
+            "companyName": "DataInsights",
+            "postingDate": "2024-03-12",
+            "expirationDate": "2024-04-12",
+            "requiredSkills": [
+                "Python",
+                "TensorFlow",
+                "SQL",
+                "Statistics",
+                "Machine Learning"
+            ]
+        },
+        {
+            "title": "Frontend Developer",
+            "description": "We're seeking a Frontend Developer to create beautiful and responsive user interfaces.",
+            "location": "Seattle, WA",
+            "salaryRange": {
+                "min": 90000,
+                "max": 140000
+            },
+            "companyName": "WebSolutions",
+            "postingDate": "2024-03-11",
+            "expirationDate": "2024-04-11",
+            "requiredSkills": [
+                "React",
+                "TypeScript",
+                "CSS",
+                "HTML",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Backend Developer",
+            "description": "Looking for a Backend Developer to build and maintain our API services.",
+            "location": "Austin, TX",
+            "salaryRange": {
+                "min": 95000,
+                "max": 145000
+            },
+            "companyName": "APITech",
+            "postingDate": "2024-03-10",
+            "expirationDate": "2024-04-10",
+            "requiredSkills": [
+                "Python",
+                "Django",
+                "PostgreSQL",
+                "REST APIs",
+                "Docker"
+            ]
+        },
+        {
+            "title": "Mobile Developer",
+            "description": "Join our mobile team to build native iOS and Android applications.",
+            "location": "Chicago, IL",
+            "salaryRange": {
+                "min": 100000,
+                "max": 150000
+            },
+            "companyName": "MobileFirst",
+            "postingDate": "2024-03-09",
+            "expirationDate": "2024-04-09",
+            "requiredSkills": [
+                "Swift",
+                "Kotlin",
+                "React Native",
+                "iOS",
+                "Android"
+            ]
+        },
+        {
+            "title": "Security Engineer",
+            "description": "Help us maintain and improve our security infrastructure.",
+            "location": "Denver, CO",
+            "salaryRange": {
+                "min": 120000,
+                "max": 180000
+            },
+            "companyName": "SecureTech",
+            "postingDate": "2024-03-08",
+            "expirationDate": "2024-04-08",
+            "requiredSkills": [
+                "Security",
+                "Networking",
+                "Python",
+                "Linux",
+                "AWS"
+            ]
+        },
+        {
+            "title": "QA Engineer",
+            "description": "Join our quality assurance team to ensure our products meet high standards.",
+            "location": "Portland, OR",
+            "salaryRange": {
+                "min": 85000,
+                "max": 130000
+            },
+            "companyName": "QualityFirst",
+            "postingDate": "2024-03-07",
+            "expirationDate": "2024-04-07",
+            "requiredSkills": [
+                "Testing",
+                "Automation",
+                "Selenium",
+                "Python",
+                "JIRA"
+            ]
+        },
+        {
+            "title": "Product Manager",
+            "description": "Lead product development and work closely with engineering teams.",
+            "location": "Los Angeles, CA",
+            "salaryRange": {
+                "min": 110000,
+                "max": 160000
+            },
+            "companyName": "ProductLabs",
+            "postingDate": "2024-03-06",
+            "expirationDate": "2024-04-06",
+            "requiredSkills": [
+                "Product Management",
+                "Agile",
+                "JIRA",
+                "Analytics",
+                "Communication"
+            ]
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "description": "Build and deploy machine learning models for our AI platform.",
+            "location": "Pittsburgh, PA",
+            "salaryRange": {
+                "min": 120000,
+                "max": 180000
+            },
+            "companyName": "AI Solutions",
+            "postingDate": "2024-03-05",
+            "expirationDate": "2024-04-05",
+            "requiredSkills": [
+                "Python",
+                "TensorFlow",
+                "PyTorch",
+                "MLOps",
+                "Docker"
+            ]
+        },
+        {
+            "title": "Cloud Architect",
+            "description": "Design and implement cloud infrastructure solutions.",
+            "location": "Remote",
+            "salaryRange": {
+                "min": 130000,
+                "max": 190000
+            },
+            "companyName": "CloudBuilders",
+            "postingDate": "2024-03-04",
+            "expirationDate": "2024-04-04",
+            "requiredSkills": [
+                "AWS",
+                "Azure",
+                "GCP",
+                "Terraform",
+                "Kubernetes"
+            ]
+        },
+        {
+            "title": "UI/UX Designer",
+            "description": "Create beautiful and intuitive user interfaces for our products.",
+            "location": "San Diego, CA",
+            "salaryRange": {
+                "min": 90000,
+                "max": 140000
+            },
+            "companyName": "DesignHub",
+            "postingDate": "2024-03-03",
+            "expirationDate": "2024-04-03",
+            "requiredSkills": [
+                "Figma",
+                "Adobe XD",
+                "UI Design",
+                "UX Research",
+                "Prototyping"
+            ]
+        },
+        {
+            "title": "Database Administrator",
+            "description": "Manage and optimize our database infrastructure.",
+            "location": "Miami, FL",
+            "salaryRange": {
+                "min": 100000,
+                "max": 150000
+            },
+            "companyName": "DataSystems",
+            "postingDate": "2024-03-02",
+            "expirationDate": "2024-04-02",
+            "requiredSkills": [
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB",
+                "Redis",
+                "Performance Tuning"
+            ]
+        },
+        {
+            "title": "Blockchain Developer",
+            "description": "Build decentralized applications and smart contracts.",
+            "location": "Remote",
+            "salaryRange": {
+                "min": 120000,
+                "max": 180000
+            },
+            "companyName": "BlockTech",
+            "postingDate": "2024-03-01",
+            "expirationDate": "2024-04-01",
+            "requiredSkills": [
+                "Solidity",
+                "Ethereum",
+                "Web3",
+                "Smart Contracts",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Game Developer",
+            "description": "Create engaging games using Unity and Unreal Engine.",
+            "location": "Orlando, FL",
+            "salaryRange": {
+                "min": 85000,
+                "max": 130000
+            },
+            "companyName": "GameStudios",
+            "postingDate": "2024-02-29",
+            "expirationDate": "2024-03-29",
+            "requiredSkills": [
+                "Unity",
+                "Unreal Engine",
+                "C#",
+                "C++",
+                "3D Modeling"
+            ]
+        },
+        {
+            "title": "Embedded Systems Engineer",
+            "description": "Develop firmware and software for embedded systems.",
+            "location": "Dallas, TX",
+            "salaryRange": {
+                "min": 100000,
+                "max": 150000
+            },
+            "companyName": "EmbeddedTech",
+            "postingDate": "2024-02-28",
+            "expirationDate": "2024-03-28",
+            "requiredSkills": [
+                "C",
+                "C++",
+                "RTOS",
+                "Microcontrollers",
+                "Embedded Linux"
+            ]
+        },
+        {
+            "title": "AR/VR Developer",
+            "description": "Create immersive augmented and virtual reality experiences.",
+            "location": "San Jose, CA",
+            "salaryRange": {
+                "min": 110000,
+                "max": 160000
+            },
+            "companyName": "ARVR Labs",
+            "postingDate": "2024-02-27",
+            "expirationDate": "2024-03-27",
+            "requiredSkills": [
+                "Unity",
+                "Unreal Engine",
+                "C#",
+                "3D Modeling",
+                "AR/VR SDKs"
+            ]
+        },
+        {
+            "title": "Network Engineer",
+            "description": "Design and maintain our network infrastructure.",
+            "location": "Atlanta, GA",
+            "salaryRange": {
+                "min": 95000,
+                "max": 145000
+            },
+            "companyName": "NetSolutions",
+            "postingDate": "2024-02-26",
+            "expirationDate": "2024-03-26",
+            "requiredSkills": [
+                "Cisco",
+                "Networking",
+                "Security",
+                "Linux",
+                "Cloud Networking"
+            ]
+        },
+        {
+            "title": "Technical Writer",
+            "description": "Create clear and comprehensive technical documentation.",
+            "location": "Remote",
+            "salaryRange": {
+                "min": 80000,
+                "max": 120000
+            },
+            "companyName": "DocTech",
+            "postingDate": "2024-02-25",
+            "expirationDate": "2024-03-25",
+            "requiredSkills": [
+                "Technical Writing",
+                "Markdown",
+                "API Documentation",
+                "Git",
+                "Technical Communication"
+            ]
+        },
+        {
+            "title": "Site Reliability Engineer",
+            "description": "Ensure our systems are reliable and scalable.",
+            "location": "Phoenix, AZ",
+            "salaryRange": {
+                "min": 115000,
+                "max": 170000
+            },
+            "companyName": "ReliabilityFirst",
+            "postingDate": "2024-02-24",
+            "expirationDate": "2024-03-24",
+            "requiredSkills": [
+                "Kubernetes",
+                "Docker",
+                "Prometheus",
+                "Grafana",
+                "Python"
+            ]
+        },
+        {
+            "title": "Mobile App Developer",
+            "description": "Build native mobile applications for iOS and Android.",
+            "location": "Nashville, TN",
+            "salaryRange": {
+                "min": 95000,
+                "max": 145000
+            },
+            "companyName": "AppWorks",
+            "postingDate": "2024-02-23",
+            "expirationDate": "2024-03-23",
+            "requiredSkills": [
+                "Swift",
+                "Kotlin",
+                "iOS",
+                "Android",
+                "Mobile UI"
+            ]
+        },
+        {
+            "title": "Big Data Engineer",
+            "description": "Build and maintain our big data infrastructure.",
+            "location": "Minneapolis, MN",
+            "salaryRange": {
+                "min": 110000,
+                "max": 160000
+            },
+            "companyName": "DataFlow",
+            "postingDate": "2024-02-22",
+            "expirationDate": "2024-03-22",
+            "requiredSkills": [
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "Python",
+                "Scala"
+            ]
+        },
+        {
+            "title": "Cybersecurity Analyst",
+            "description": "Protect our systems from security threats.",
+            "location": "Washington, DC",
+            "salaryRange": {
+                "min": 100000,
+                "max": 150000
+            },
+            "companyName": "SecureNet",
+            "postingDate": "2024-02-21",
+            "expirationDate": "2024-03-21",
+            "requiredSkills": [
+                "Security",
+                "Networking",
+                "SIEM",
+                "Incident Response",
+                "Python"
+            ]
+        },
+        {
+            "title": "API Developer",
+            "description": "Design and implement RESTful APIs.",
+            "location": "Raleigh, NC",
+            "salaryRange": {
+                "min": 95000,
+                "max": 145000
+            },
+            "companyName": "APIBuilders",
+            "postingDate": "2024-02-20",
+            "expirationDate": "2024-03-20",
+            "requiredSkills": [
+                "REST",
+                "GraphQL",
+                "Node.js",
+                "Python",
+                "API Design"
+            ]
+        },
+        {
+            "title": "Cloud Developer",
+            "description": "Build cloud-native applications and services.",
+            "location": "Remote",
+            "salaryRange": {
+                "min": 105000,
+                "max": 155000
+            },
+            "companyName": "CloudNative",
+            "postingDate": "2024-02-19",
+            "expirationDate": "2024-03-19",
+            "requiredSkills": [
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Serverless",
+                "Python"
+            ]
+        },
+        {
+            "title": "DevOps Engineer",
+            "description": "Automate and streamline our development processes.",
+            "location": "Salt Lake City, UT",
+            "salaryRange": {
+                "min": 110000,
+                "max": 160000
+            },
+            "companyName": "DevOpsPro",
+            "postingDate": "2024-02-18",
+            "expirationDate": "2024-03-18",
+            "requiredSkills": [
+                "CI/CD",
+                "Docker",
+                "Kubernetes",
+                "AWS",
+                "Terraform"
+            ]
+        },
+        {
+            "title": "Full Stack Developer",
+            "description": "Build end-to-end web applications.",
+            "location": "Kansas City, MO",
+            "salaryRange": {
+                "min": 95000,
+                "max": 145000
+            },
+            "companyName": "WebDevCo",
+            "postingDate": "2024-02-17",
+            "expirationDate": "2024-03-17",
+            "requiredSkills": [
+                "React",
+                "Node.js",
+                "Python",
+                "PostgreSQL",
+                "AWS"
+            ]
+        },
+        {
+            "title": "Software Architect",
+            "description": "Design scalable software systems and architectures.",
+            "location": "Philadelphia, PA",
+            "salaryRange": {
+                "min": 130000,
+                "max": 190000
+            },
+            "companyName": "ArchTech",
+            "postingDate": "2024-02-16",
+            "expirationDate": "2024-03-16",
+            "requiredSkills": [
+                "System Design",
+                "Microservices",
+                "Cloud Architecture",
+                "Java",
+                "Python"
+            ]
+        },
+        {
+            "title": "Mobile Developer",
+            "description": "Create cross-platform mobile applications.",
+            "location": "Detroit, MI",
+            "salaryRange": {
+                "min": 90000,
+                "max": 140000
+            },
+            "companyName": "MobileTech",
+            "postingDate": "2024-02-15",
+            "expirationDate": "2024-03-15",
+            "requiredSkills": [
+                "React Native",
+                "Flutter",
+                "JavaScript",
+                "Mobile UI",
+                "REST APIs"
+            ]
+        }
+    ]
+}

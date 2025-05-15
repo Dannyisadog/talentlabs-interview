@@ -1,0 +1,41 @@
+export default {
+  common: {
+    language: 'Language',
+    english: 'English',
+    chinese: 'Chinese'
+  },
+  jobList: {
+    title: 'Job Listing',
+    location: 'Location',
+    salary: 'Salary',
+    postedOn: 'Posted on',
+    expiresOn: 'Expires on',
+    applyNow: 'Apply Now',
+    jobDetails: 'Job Details',
+    description: 'Description',
+    requirements: 'Requirements',
+    responsibilities: 'Responsibilities',
+    qualifications: 'Qualifications',
+    today: 'Today',
+    yesterday: 'Yesterday',
+    daysAgo: 'days ago',
+    requiredSkills: 'Required Skills',
+    salaryRange: 'Salary Range',
+    posted: 'Posted',
+    expires: 'Expires',
+    noJobSelected: 'No job selected',
+    search: 'Search jobs...',
+    status: 'Status',
+    sortBy: 'Sort by',
+    sortDirection: 'Sort direction',
+    all: 'All',
+    active: 'Active',
+    expired: 'Expired',
+    scheduled: 'Scheduled',
+    postingDate: 'Posting Date',
+    expirationDate: 'Expiration Date',
+    newestFirst: 'Newest First',
+    oldestFirst: 'Oldest First',
+    dateNotAvailable: 'Date N/A'
+  }
+} 

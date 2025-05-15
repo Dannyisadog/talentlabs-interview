@@ -1,0 +1,45 @@
+name: Backend Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Start Docker Compose
+        working-directory: ./backend
+        run: docker compose up -d
+
+      - name: Wait for DB to be ready
+        run: sleep 10
+
+      - name: Install dependencies with uv
+        working-directory: ./backend
+        run: uv pip install . --system
+
+      - name: Run tests
+        working-directory: ./backend
+        run: pytest
+
+      - name: Stop Docker Compose
+        if: always()
+        working-directory: ./backend
+        run: docker compose down

@@ -1,0 +1,42 @@
+export default {
+  common: {
+    language: '語言',
+    english: '英文',
+    chinese: '中文'
+  },
+  jobList: {
+    title: '職缺列表',
+    location: '地點',
+    salary: '薪資',
+    postedOn: '刊登於',
+    expiresOn: '截止於',
+    applyNow: '立即應徵',
+    jobDetails: '職缺詳情',
+    description: '描述',
+    requirements: '條件要求',
+    responsibilities: '工作內容',
+    qualifications: '資格條件',
+    today: '今天',
+    yesterday: '昨天',
+    daysAgo: '天前',
+    requiredSkills: '所需技能',
+    salaryRange: '薪資範圍',
+    posted: '刊登',
+    expires: '截止',
+    noJobSelected: '未選擇職缺',
+    search: '搜尋職缺...',
+    status: '狀態',
+    sortBy: '排序方式',
+    sortDirection: '排序方向',
+    all: '全部',
+    active: '進行中',
+    expired: '已截止',
+    scheduled: '即將開始',
+    postingDate: '刊登日期',
+    expirationDate: '截止日期',
+    newestFirst: '最新優先',
+    oldestFirst: '最舊優先',
+    loading: '載入中...',
+    dateNotAvailable: '无日期'
+  }
+} 
